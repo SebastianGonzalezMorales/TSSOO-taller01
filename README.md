@@ -41,7 +41,7 @@ Cabe señalar que cuando se lee cada archivo se elimina la línea de cabecera ta
 **parte3()** : Determinar estadisticas del uso de teléfonos móviles basado en ejemplo del profesor.
            Salida: archivo usePhone-stats.txt con la siguiente estructura: 
 					 
-        					      timestamp:promedio:min:max
+        					  timestamp:promedio:min:max
 
 
 
