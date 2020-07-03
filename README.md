@@ -20,28 +20,28 @@ Cabe señalar que cuando se lee cada archivo se elimina la línea de cabecera ta
     	  	Salida: archivo metrics.txt con la siguiente estructura: 
 					
 					
-		    						tsimTotal:promedio:min:max
-				    				memUsed:promedio:min:max
+		    				tsimTotal:promedio:min:max
+				  		memUsed:promedio:min:max
 									
 **parte2()** : Determinar estadisticas para tiempo de evacuacion.
         	 Salida: archivo evacuation.txt con la siguiente estructura: <br>
 							
-								alls:promedio:min:max 
-								residents:promedio:min:max 
-								visitorsI:promedio:min:max
-								residents-G0:promedio:min:max
-								residents-G1:promedio:min:max
-    							residents-G2:promedio:min:max
-								residents-G3:promedio:min:max
-								visitorsI-G0:promedio:min:max
-								visitorsI-G1:promedio:min:max
-								visitorsI-G2:promedio:min:max
-								visitorsI-G3:promedio:min:max
+						alls:promedio:min:max 
+						residents:promedio:min:max 
+						visitorsI:promedio:min:max
+						residents-G0:promedio:min:max
+						residents-G1:promedio:min:max
+    					residents-G2:promedio:min:max
+						residents-G3:promedio:min:max
+						visitorsI-G0:promedio:min:max
+						visitorsI-G1:promedio:min:max
+						visitorsI-G2:promedio:min:max
+						visitorsI-G3:promedio:min:max
 								
 **parte3()** : Determinar estadisticas del uso de teléfonos móviles basado en ejemplo del profesor.
            Salida: archivo usePhone-stats.txt con la siguiente estructura: 
 					 
-        					     		 timestamp:promedio:min:max
+        					      timestamp:promedio:min:max
 
 
 
