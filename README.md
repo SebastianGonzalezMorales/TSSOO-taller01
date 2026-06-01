@@ -1,5 +1,7 @@
 **Autor:** Sebastián González Morales
 
+**Asignatura:** Taller de sistemas operativos
+
 **Correo institucional:** Sebastian.gonzalez@alumnos.uv.cl
 
 **Diseño de la solución**
